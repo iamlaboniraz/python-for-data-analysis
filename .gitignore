@@ -1,0 +1,8 @@
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+.ipynb_checkpoints/
+.DS_Store
